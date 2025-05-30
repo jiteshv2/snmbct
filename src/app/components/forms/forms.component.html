@@ -1,0 +1,14 @@
+<section class="forms container">
+    <h2 align="Center">Forms</h2>
+    <div class="row">
+      <div class="col-md-4" *ngFor="let form of forms">
+        <div class="card mb-3">
+          <div class="card-body">
+            <h5 class="card-title">{{ form.name }}</h5>
+            <p class="card-text">{{ form.description }}</p>
+            <a [href]="form.url" class="btn btn-primary" target="_blank">Open Form</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

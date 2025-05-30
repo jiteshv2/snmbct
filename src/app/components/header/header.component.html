@@ -1,0 +1,24 @@
+<header class="header">
+    <div class="container header-content">
+      <!-- Left side: Logo + Trust Name -->
+      <div class="brand">
+        <a routerLink="/" class="logo-link"><img src="assets/images/logo.png" alt="Logo" class="logo" /></a>
+        <div class="trust-name">
+          <span class="trust-name-full">Shree Navi Mumbai Bhanushali Charitable Trust</span>
+          <span class="trust-name-short">SNMBCT</span>
+        </div>
+      </div>
+  
+      <!-- Right side: Hamburger menu -->
+      <button class="menu-toggle" (click)="toggleMenu()">&#9776;</button>
+  
+      <!-- Navigation links -->
+      <nav [class.open]="menuOpen">
+        <a routerLink="/">Home</a>
+        <a routerLink="/about-us" (click)="closeMenu()">About Us</a>
+        <a routerLink="/committees" (click)="closeMenu()">Committee</a>
+        <a routerLink="/forms" (click)="closeMenu()">Forms</a>
+      </nav>
+    </div>
+  </header>
+  

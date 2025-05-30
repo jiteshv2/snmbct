@@ -1,0 +1,18 @@
+<section class="committees container">
+    <h2 align="Center">Committee Members</h2>
+    <div *ngFor="let committee of committees" class="committee-section">
+        <h2 align="Center">{{ committee.name }}</h2>
+      
+        <div class="members-container">
+          <div *ngFor="let member of getMembersByCommitteeId(committee.id)" class="member-card">
+            <img [src]="member.photo" alt="{{ member.name }}" class="member-photo" />
+            <div class="member-info">
+              <h3>{{ member.name }}</h3>
+              <p class="role">{{ member.role }}</p>
+              <p class="description">{{ member.description }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+  </section>
