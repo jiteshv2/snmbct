@@ -1,132 +1,450 @@
 [
-    {
-      "id": 1,
+  
+                  {
+                    "id": 1,
+                    "name": "Suresh Hansraj Dama",
+                    "role": "Trustee",
+                    "committeeId": 100,
+                    "village": "Ustiya",
+                    "currentLocation":"Ghansoli",
+                    "description": "",
+                    "photo": "assets/images/Suresh Hansraj Dama.jpeg"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Nanji Murji Dama",
+                    "role": "Trustee",
+                    "committeeId": 100,
+                    "village": "",
+                    "currentLocation":"",
+                    "description": "",
+                    "photo": "assets/images/Nanji Murji Dama.jpg"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Vasantlal Manji Bhadra",
+                    "role": "Trustee",
+                    "committeeId": 100,
+                    "village": "",
+                    "currentLocation":"",
+                    "description": "",
+                    "photo": "assets/images/Vasantlal Manji Bhadra.jpg"
+                  },
+                  {
+                    "id": 4,
+                    "name": "Dinesh Kalyanji Mav",
+                    "role": "Trustee",
+                    "committeeId": 100,
+                    "village": "",
+                    "currentLocation":"",
+                    "description": "",
+                    "photo": "assets/images/Dinesh Kalyanji Mav.png"
+                  },
+                  {
+                    "id": 5,
+                    "name": "Gopal Laxmidas Bhadra",
+                    "role": "Trustee",
+                    "committeeId": 100,
+                    "village": "",
+                    "currentLocation":"",
+                    "description": "",
+                    "photo": "assets/images/gopal Laxmidas Bhadra.png"
+                  },
+                  {
+                    "id": 6,
+                    "name": "Shambhulal Morarji Gori",
+                    "role": "Trustee",
+                    "committeeId": 100,
+                    "village": "",
+                    "currentLocation":"",
+                    "description": "",
+                    "photo": "assets/images/Shambhulal Morarji Gori.png"
+                  },  
+  {
+      "id": 7,
       "name": "Suresh Hansraj Dama",
       "role": "President",
       "committeeId": 101,
       "village": "Ustiya",
       "currentLocation":"Ghansoli",
       "description": "",
-      "photo": "assets/images/dummy.jpg"
+      "photo": "assets/images/Suresh Hansraj Dama.jpeg"
     },
     {
-        "id": 2,
+      "id": 8,
+      "name": "Kamlesh Tulsidas Khaniya",
+    "role": "Vice President, Medical Team & Foreign Secretary",
+    "committeeId": 101,
+    "village": "Rampar",
+    "currentLocation":"Ghansoli",
+    "description": "",
+    "photo": "assets/images/Kamlesh Tulsidas Khaniya.jpeg"
+    },
+    {
+        "id": 9,
         "name": "Ramesh Sundarji Chandra",
       "role": "Vice President, Jeevan Jyot & Kit Team",
       "committeeId": 101,
       "village": "Lathedi",
       "currentLocation":"Koparkhairane",
       "description": "",
-      "photo": "assets/images/dummy.jpg"
+      "photo": "assets/images/Ramesh Sundarji Chandra.jpg"
       },
       {
-        "id": 3,
-        "name": "Kamlesh Tulsidas Khaniya",
-      "role": "Vice President, Medical Team & Foreign Secretary",
-      "committeeId": 101,
-      "village": "Rampar",
-      "currentLocation":"Ghansoli",
-      "description": "",
-      "photo": "assets/images/dummy.jpg"
-      },
-      {
-        "id": 4,
+        "id": 10,
         "name": "Kalpesh Himmatlal Khaniya",
       "role": "Mentor",
       "committeeId": 101,
       "village": "Bhavanipar",
       "currentLocation":"Ghansoli",
       "description": "",
-      "photo": "assets/images/dummy.jpg"
+      "photo": "assets/images/kapesh khaniya.png"
       },
       {
-        "id": 5,
+        "id": 11,
         "name": "Ajay Rameshbhai Mengher",
       "role": "Chief Secretary & Medical Team",
       "committeeId": 101,
       "village": "Bhavanipar",
       "currentLocation":"Ghansoli",
       "description": "",
-      "photo": "assets/images/dummy.jpg"
+      "photo": "assets/images/Ajay Rameshbhai Mengar.jpeg"
       },
       {
-        "id": 6,
-        "name": "Name",
-        "role": "Role",
-        "committeeId": 102,
-        "description": "",
-        "photo": "assets/images/dummy.jpg"
+        "id": 12,
+        "name": "Sunil Chagganlal Hurbada",
+      "role": "Chief Secretary Managerial",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Sunil Chagganlal Hurbada.jpeg"
+      },{
+        "id": 13,
+        "name": "Mahendra Pragji Shethia",
+      "role": "Secretary General",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Mahendra Pragji Shethia.jpeg"
       },
       {
-        "id": 7,
-        "name": "Name",
-        "role": "Role",
-        "committeeId": 102,
-        "description": "",
-        "photo": "assets/images/dummy.jpg"
+        "id": 14,
+        "name": "Mohanbhai Dayatbhai Chandra",
+      "role": "Public Relationship",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Mohanbhai Dayatbhai Chandra.jpeg"
       },
       {
-        "id": 8,
-        "name": "Name",
-        "role": "Role",
+        "id": 15,
+        "name": "Jayantilal (Mangal) Arjanbhai Kodvara",
+      "role": "Secretary General & Spiritual Team Head",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Jayanti Arjan Kodvara.jpeg"
+      },
+      {
+        "id": 16,
+        "name": "Suresh Hansraj Gori",
+      "role": "Treasurer",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Suresh Hansraj Gori.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "Yogesh Mavjibhai Khaniya",
+      "role": "Vice Treasurer",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Yogesh Mavjibhai Khaniya.jpeg"
+      },
+      {
+        "id": 18,
+        "name": "Nitin Pradhanji Mange",
+      "role": "Education Team Head & Foreign Secretary",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Nitin Pradhanji Mange.jpeg"
+      },{
+        "id": 19,
+        "name": "Mukesh Mohanlal Chandra",
+      "role": "Medical Team Head",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Dr. Mukesh Mohanlal Chandra.jpeg"
+      },{
+        "id": 20,
+        "name": "Ishwar Chhaganlal Gori",
+      "role": "Sports Head & Medical Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Ishwar Chhaganlal Gori.jpeg"
+      },{
+        "id": 21,
+        "name": "Jitesh Shambhulal Bhadra",
+      "role": "Tech Team Head",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Jitesh Shambhulal Bhadra.jpeg"
+      },{
+        "id": 22,
+        "name": "Sagar Virjibhai Gori",
+      "role": "Media & Branding Team Head & Sports Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Sagar Virjibhai Gori.jpeg"
+      },{
+        "id": 23,
+        "name": "Rajesh Odhavji Bhadra",
+      "role": "Communication Team Head",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Rajesh Odhavji Bhadra.jpeg"
+      },{
+        "id": 24,
+        "name": "Jayantilal Kalyanji Mithiya",
+      "role": "Public Relationship",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Jayantilal Kalyanji Mithiya.jpeg"
+      },{
+        "id": 25,
+        "name": "Jayesh Ladakbhai Gori",
+      "role": "Sports Secretary, Tech Team & Mediclaim",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Jayesh Ladak Gori.jpeg"
+      },{
+        "id": 26,
+        "name": "Bhavesh Laxmidas Gori",
+      "role": "Communication & Food Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Bhavesh Laxmidas Gori.jpeg"
+      },{
+        "id": 27,
+        "name": "Kanji Shambhuram Dama",
+      "role": "Communication Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Kanji Shambhuram Dama.jpeg"
+      },{
+        "id": 28,
+        "name": "Rajesh Vithaldas Gajra",
+      "role": "Sports & Food Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Rajesh Vithaldas Gajra.jpg"
+      },{
+        "id": 29,
+        "name": "Janak Narottam Bhadra",
+      "role": "Tech Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Janak Bhanushali.jpeg"
+      },{
+        "id": 30,
+        "name": "Kapil Sureshbhai Bhadra",
+      "role": "Tech & Sports Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Kapil Suresh Bhadra.jpeg"
+      },{
+        "id": 31,
+        "name": "Sachin Shivjibhai Chandra",
+      "role": "Tech Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Sachin Shivjibhai Chandra.jpeg"
+      },{
+        "id": 32,
+        "name": "Deepak Manjibhai Bhadra",
+      "role": "Media & Branding Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Deepak Manji Bhadra.jpeg"
+      },{
+        "id": 33,
+        "name": "Harish Kakubhai Shethiya",
+      "role": "Spiritual Team",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Harish Kakubhai Shethia.jpeg"
+      },{
+        "id": 34,
+        "name": "Mahesh Tharyabhai Joiser",
+      "role": "Public Relationship",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Mahesh Tharyabhai Joiser.jpeg"
+      },{
+        "id": 35,
+        "name": "Hansraj Parshottam Khaniya",
+      "role": "Ground Level Management",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Hansraj Prashottam Khaniya.jpeg"
+      },{
+        "id": 36,
+        "name": "Mehul Maheshbhai Vador",
+      "role": "Ground Level Management",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Mehul Maheshbhai Vador.jpeg"
+      },{
+        "id": 37,
+        "name": "Praful Babulal Mange",
+      "role": "Ground Level Management",
+      "committeeId": 101,
+      "village": "",
+      "currentLocation":"",
+      "description": "",
+      "photo": "assets/images/Praful Babulal Mange.jpeg"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "id": 38,
+        "name": "Rekha Dinesh Mav",
+        "role": "President",
         "committeeId": 102,
         "description": "",
-        "photo": "assets/images/dummy.jpg"
+        "photo": "assets/images/rekha_mav.jpg"
+      },
+      {
+        "id": 39,
+        "name": "Rajashree Satish Gajra",
+        "role": "Vice President",
+        "committeeId": 102,
+        "description": "",
+        "photo": "assets/images/rajashree_gajra.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Kartika Bhavesh Gori",
+        "role": "Vice President",
+        "committeeId": 102,
+        "description": "",
+        "photo": "assets/images/kartika_gori.jpg"
       },
     {
-        "id": 9,
-        "name": "Name",
-        "role": "Role",
+        "id": 41,
+        "name": "Neeta Mahendra Dama",
+        "role": "Secretary",
         "committeeId": 102,
         "description": "",
-        "photo": "assets/images/dummy.jpg"
+        "photo": "assets/images/neeta_dama.jpg"
       },
       {
-          "id": 10,
-          "name": "Name",
-          "role": "Role",
+          "id": 42,
+          "name": "Sharda Kanji Mav",
+          "role": "Chief Secretary",
           "committeeId": 102,
           "description": "",
-          "photo": "assets/images/dummy.jpg"
+          "photo": "assets/images/sharda_mav.jpg"
         },
+
+
+
         {
             "id": 11,
-            "name": "Name",
-            "role": "Role",
+            "name": "Deevy K Mange",
+            "role": "",
             "committeeId": 103,
             "description": "",
-            "photo": "assets/images/dummy.jpg"
+            "photo": "assets/images/Deevy_Mange.jpg"
           },
           {
               "id": 12,
-              "name": "Name",
-              "role": "Role",
+              "name": "Dhruv N. Chandra",
+              "role": "",
               "committeeId": 103,
               "description": "",
-              "photo": "assets/images/dummy.jpg"
+              "photo": "assets/images/dhruv_chandra.jpg"
             },
             {
                 "id": 13,
-                "name": "Name",
-                "role": "Role",
+                "name": "Dipika H. Chunda",
+                "role": "",
                 "committeeId": 103,
                 "description": "",
-                "photo": "assets/images/dummy.jpg"
+                "photo": "assets/images/dipika_chunda.jpg"
               },
               {
                   "id": 14,
-                  "name": "Name",
-                  "role": "Role",
+                  "name": "Disha M.Mange",
+                  "role": "",
                   "committeeId": 103,
                   "description": "",
-                  "photo": "assets/images/dummy.jpg"
+                  "photo": "assets/images/disha_mange.jpg"
                 },
                 {
                     "id": 15,
-                    "name": "Name",
-                    "role": "Role",
+                    "name": "Drashti  J. Gajra",
+                    "role": "",
                     "committeeId": 103,
                     "description": "",
-                    "photo": "assets/images/dummy.jpg"
-                  }
-  ]
+                    "photo": "assets/images/drashti_gajra.jpg"
+                }
+                  
+                ]
