@@ -1,17 +1,22 @@
 [
-    {
+  {
+    "id": 100,
+    "name": "Trustees",
+    "description": "Focuses on public health initiatives."
+  },  
+  {
       "id": 101,
-      "name": "",
+      "name": "Committee Members",
       "description": "Focuses on public health initiatives."
     },
     {
         "id": 102,
-        "name": "Asmita",
+        "name": "Team Asmita",
         "description": "Focuses on public health initiatives."
       },
       {
         "id": 103,
-        "name": "Ameya",
+        "name": "Team Ameya",
         "description": "Focuses on public health initiatives."
       }
   ]
